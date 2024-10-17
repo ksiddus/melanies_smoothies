@@ -1,6 +1,6 @@
-  - snowflake
   - python=3.8.*
   - snowflake-snowpark-python=
   - snowflake-connector-python   
   - snowflake-snowpark-python
+  - snowflake-snowpark-functions
     streamlit==1.31.1
