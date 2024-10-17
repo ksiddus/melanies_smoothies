@@ -2,5 +2,5 @@
   - snowflake-snowpark-python=
   - snowflake-connector-python   
   - snowflake-snowpark-python
-  - snowflake-snowpark-functions
+  - snowflake-snowpark-functions=import
     streamlit==1.31.1
